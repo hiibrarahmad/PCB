@@ -1,0 +1,115 @@
+Removed Pin From Net: NetName=NetR10_2 Pin=U1-1
+Removed Pin From Net: NetName=NetR9_2 Pin=U1-2
+Removed Pin From Net: NetName=NetR14_2 Pin=U2-CN4_8
+Removed Pin From Net: NetName=NetR10_2 Pin=U2-CN4_11
+Removed Pin From Net: NetName=NetR11_2 Pin=U3-2
+Removed Pin From Net: NetName=NetR14_2 Pin=U5-1
+Removed Pin From Net: NetName=NetR13_2 Pin=U5-2
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J4
+Change Component Designator: OldDesignator=J3 NewDesignator=J7
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J16
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=J8 NewDesignator=J5
+Change Component Designator: OldDesignator=J9 NewDesignator=J1
+Change Component Designator: OldDesignator=J10 NewDesignator=J11
+Change Component Designator: OldDesignator=J11 NewDesignator=J15
+Change Component Designator: OldDesignator=J13 NewDesignator=J14
+Change Component Designator: OldDesignator=J14 NewDesignator=J13
+Change Component Designator: OldDesignator=J15 NewDesignator=J9
+Change Component Designator: OldDesignator=J16 NewDesignator=J10
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q1
+Change Component Designator: OldDesignator=U1 NewDesignator=U5
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=U5 NewDesignator=U3
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-2
+Added Pin To Net: NetName=NetR10_2 Pin=U1-CN4_8
+Added Pin To Net: NetName=NetR9_2 Pin=U1-CN4_9
+Added Pin To Net: NetName=NetR14_2 Pin=U1-CN4_11
+Added Pin To Net: NetName=NetR13_2 Pin=U1-CN4_12
+Added Pin To Net: NetName=NetR9_2 Pin=U2-1
+Added Pin To Net: NetName=NetR10_2 Pin=U3-1
+Added Pin To Net: NetName=NetR13_2 Pin=U4-1
+Added Pin To Net: NetName=NetR11_2 Pin=U4-2
+Added Pin To Net: NetName=NetR14_2 Pin=U5-1
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetJ9_1 New Net Name=NetJ11_1
+Change Net Name : Old Net Name=NetJ9_2 New Net Name=NetJ7_1
+Change Net Name : Old Net Name=NetJ12_2 New Net Name=NetJ16_2
+Change Net Name : Old Net Name=NetJ12_3 New Net Name=NetJ16_3
+Change Net Name : Old Net Name=NetJ13_1 New Net Name=NetJ9_1
+Change Net Name : Old Net Name=NetJ13_2 New Net Name=NetJ9_2
+Change Net Name : Old Net Name=NetJ14_1 New Net Name=NetJ10_1
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=NetQ4_2
+Change Net Name : Old Net Name=NetQ3_3 New Net Name=NetQ1_1
+Added Pin To Net: NetName=NetJ12_1 Pin=J12-1
+Added Pin To Net: NetName=NetJ12_1 Pin=U2-3
+Added Net: Name=NetJ12_1
+Added Pin To Net: NetName=NetJ13_1 Pin=J13-1
+Added Pin To Net: NetName=NetJ13_1 Pin=U3-3
+Added Net: Name=NetJ13_1
+Added Pin To Net: NetName=NetJ14_1 Pin=J14-1
+Added Pin To Net: NetName=NetJ14_1 Pin=U4-3
+Added Net: Name=NetJ14_1
+Added Pin To Net: NetName=NetJ15_1 Pin=J15-1
+Added Pin To Net: NetName=NetJ15_1 Pin=U5-3
+Added Net: Name=NetJ15_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q4-3
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetR7_2 Pin=U2-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=U3-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR12_2 Pin=U5-2
+Added Net: Name=NetR12_2
+Added Member To Class: ClassName=Sheet2 Member=Component J4 j10
+Added Member To Class: ClassName=Sheet2 Member=Component J7 j10
+Added Member To Class: ClassName=Sheet2 Member=Component J8 j16
+Added Member To Class: ClassName=Sheet2 Member=Component J10 1-1775099-3
+Added Member To Class: ClassName=Sheet2 Member=Component J11 TSW-103-07-L-S
+Added Member To Class: ClassName=Sheet2 Member=Component J12 j10
+Added Member To Class: ClassName=Sheet2 Member=Component J13 j11
+Added Member To Class: ClassName=Sheet2 Member=Component J14 j10
+Added Member To Class: ClassName=Sheet2 Member=Component J15 J8
+Added Member To Class: ClassName=Sheet2 Member=Component J16 47053-3000
+Added Member To Class: ClassName=Sheet2 Member=Component Q2 AUIRFZ44N
+Added Member To Class: ClassName=Sheet2 Member=Component Q4 2N5551RL1G
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component R12 Resistor
+Add Class Member: Failed to add class member : Component R13 Resistor
+Add Class Member: Failed to add class member : Component R14 Resistor
+Added Member To Class: ClassName=Sheet2 Member=Component U1 NUCLEO-L432KC
+Added Member To Class: ClassName=Sheet2 Member=Component U3 LM358P
+Added Member To Class: ClassName=Sheet2 Member=Component U5 LM358P

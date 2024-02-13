@@ -1,0 +1,148 @@
+Remove Pin from Net: Failed to remove Pin
+Change Component Footprint: Designator=J1 Old Footprint=620102131822 New Footprint=620102131822
+Change Component Footprint: Designator=J2 Old Footprint=620102131822 New Footprint=620102131822
+Change Component Footprint: Designator=J? Old Footprint=620102131822 New Footprint=620102131822
+Change Component Footprint: Designator=J? Old Footprint=620102131822 New Footprint=620102131822
+Change Component Footprint: Designator=J? Old Footprint=620102131822 New Footprint=620102131822
+Change Component Footprint: Designator=J? Old Footprint=620102131822 New Footprint=620102131822
+Change Component Footprint: Designator=J? Old Footprint=653103124022 New Footprint=653103124022
+Change Component Footprint: Designator=J? Old Footprint=653104124022 New Footprint=653104124022
+Change Component Footprint: Designator=Q1 Old Footprint=FP-TO-220AB-MFG New Footprint=FP-TO-220AB-MFG
+Change Component Footprint: Designator=Q? Old Footprint=FP-TO-220AB-MFG New Footprint=FP-TO-220AB-MFG
+Change Component Footprint: Designator=Q? Old Footprint=FP-TO-220AB-MFG New Footprint=FP-TO-220AB-MFG
+Change Component Comment : Designator=J? Old Comment=j10 New Comment=j16
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=J? NewDesignator=J12
+Change Component Designator: OldDesignator=J? NewDesignator=J13
+Change Component Designator: OldDesignator=J? NewDesignator=J14
+Change Component Designator: OldDesignator=J? NewDesignator=J15
+Change Component Designator: OldDesignator=J? NewDesignator=J16
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Added Pin To Net: NetName=NetJ?_1 Pin=J15-1
+Added Pin To Net: NetName=GND Pin=J15-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J16-1
+Added Pin To Net: NetName=GND Pin=J16-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R13-1
+Added Pin To Net: NetName=GND Pin=U1-CN3_4
+Added Pin To Net: NetName=NetJ?_1 Pin=U1-CN4_1
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ9_2
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ5_2
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ3_3
+Change Net Name : Old Net Name=NetQ?_2 New Net Name=NetQ3_2
+Change Net Name : Old Net Name=NetU?_CN4_3 New Net Name=NetU1_CN4_3
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ3_2 Pin=Q4-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=U?-3
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=U3-3
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetJ9_3 Pin=J9-3
+Added Pin To Net: NetName=NetJ9_3 Pin=U1-CN3_5
+Added Net: Name=NetJ9_3
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_1 Pin=U2-3
+Added Net: Name=NetJ10_1
+Added Pin To Net: NetName=NetJ11_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ11_1 Pin=U1-3
+Added Net: Name=NetJ11_1
+Added Pin To Net: NetName=NetJ12_2 Pin=J12-2
+Added Pin To Net: NetName=NetJ12_2 Pin=U1-CN4_10
+Added Net: Name=NetJ12_2
+Added Pin To Net: NetName=NetJ12_3 Pin=J12-3
+Added Pin To Net: NetName=NetJ12_3 Pin=U1-CN4_5
+Added Net: Name=NetJ12_3
+Added Pin To Net: NetName=NetJ13_1 Pin=J13-1
+Added Pin To Net: NetName=NetJ13_1 Pin=J14-8
+Added Net: Name=NetJ13_1
+Added Pin To Net: NetName=NetJ13_2 Pin=J13-2
+Added Pin To Net: NetName=NetJ13_2 Pin=J14-10
+Added Net: Name=NetJ13_2
+Added Pin To Net: NetName=NetJ14_1 Pin=J14-1
+Added Pin To Net: NetName=NetJ14_1 Pin=U1-4
+Added Pin To Net: NetName=NetJ14_1 Pin=U1-CN4_14
+Added Pin To Net: NetName=NetJ14_1 Pin=U2-4
+Added Pin To Net: NetName=NetJ14_1 Pin=U3-4
+Added Pin To Net: NetName=NetJ14_1 Pin=U?-4
+Added Net: Name=NetJ14_1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=U1-CN3_6
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetR5_2 Pin=U?-2
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=U1-CN4_12
+Added Pin To Net: NetName=NetR6_2 Pin=U?-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR9_2 Pin=U3-2
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=U1-CN4_11
+Added Pin To Net: NetName=NetR10_2 Pin=U3-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=U2-2
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR13_2 Pin=U1-2
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=U1-1
+Added Pin To Net: NetName=NetR14_2 Pin=U1-CN4_8
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR15_2 Pin=U1-CN4_9
+Added Pin To Net: NetName=NetR15_2 Pin=U2-1
+Added Net: Name=NetR15_2
+Added Member To Class: ClassName=Sheet2 Member=Component J3 620102131822
+Added Member To Class: ClassName=Sheet2 Member=Component J5 620102131822
+Added Member To Class: ClassName=Sheet2 Member=Component J6 620102131822
+Added Member To Class: ClassName=Sheet2 Member=Component J7 j10
+Added Member To Class: ClassName=Sheet2 Member=Component J8
+Added Member To Class: ClassName=Sheet2 Member=Component J9 653103124022
+Added Member To Class: ClassName=Sheet2 Member=Component J10
+Added Member To Class: ClassName=Sheet2 Member=Component J11
+Added Member To Class: ClassName=Sheet2 Member=Component J12 Lcd
+Added Member To Class: ClassName=Sheet2 Member=Component J13
+Added Member To Class: ClassName=Sheet2 Member=Component J14 1-1775099-3
+Added Member To Class: ClassName=Sheet2 Member=Component J15 j10
+Added Member To Class: ClassName=Sheet2 Member=Component J16
+Added Member To Class: ClassName=Sheet2 Member=Component Q2 2N5551RL1G
+Added Member To Class: ClassName=Sheet2 Member=Component Q4 AUIRFZ44N
+Added Member To Class: ClassName=Sheet2 Member=Component Q5 AUIRFZ44N
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component R13 Resistor
+Add Class Member: Failed to add class member : Component R14 Resistor
+Add Class Member: Failed to add class member : Component R15 Resistor
+Added Member To Class: ClassName=Sheet2 Member=Component U1 NUCLEO-L432KC
+Added Member To Class: ClassName=Sheet2 Member=Component U2 LM358P
+Added Member To Class: ClassName=Sheet2 Member=Component U3 LM358P
+Added Member To Class: ClassName=Sheet2 Member=Component U? LM358P
